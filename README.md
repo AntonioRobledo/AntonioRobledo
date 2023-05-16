@@ -1,13 +1,10 @@
-# Welcome to [Antonio Robledo's](https://antoniorobledo.github.io/My-Technical-Portfolio/) profile! <a href="https://antoniorobledo.github.io/My-Technical-Portfolio/">
+# Welcome to [Antonio Robledo's](https://antoniorobledo.github.io/My-Technical-Portfolio/) profile! <a href="https://antoniorobledo.github.io/My-Technical-Portfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ![screenshot](assets/images/GitHub%20Banner%20Sample%202.png)
-
-I am a Full-Stack Web Developer based in Irvine, California. Feel free to connect with me on any of these platforms:
-
+    
 <a href="https://www.linkedin.com/in/antonio-robledo-ysasaga-23a37a1b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGYfP%2BAhvRMO4hRAqCQT9BQ%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 
-Please message me if you have any questions!
 ---
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioRobledo&show_icons=true&theme=radical)](https://github.com/AntonioRobledo/github-readme-stats)
 ---
