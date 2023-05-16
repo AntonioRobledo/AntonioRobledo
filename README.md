@@ -5,6 +5,12 @@
 <a href="https://www.linkedin.com/in/antonio-robledo-ysasaga-23a37a1b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGYfP%2BAhvRMO4hRAqCQT9BQ%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 
+<a href="https://www.facebook.com/antonio.robledo.332" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+&nbsp;
+
+<a href="https://www.instagram.com/arysasaga/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+&nbsp;
+
 ---
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioRobledo&show_icons=true&theme=radical)](https://github.com/AntonioRobledo/github-readme-stats)
 ---
