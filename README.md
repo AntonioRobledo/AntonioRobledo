@@ -3,8 +3,6 @@
 ![screenshot](assets/images/GitHub%20Banner%20Sample%202.png)
 
 ---
-
----
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
