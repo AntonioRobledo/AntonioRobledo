@@ -3,7 +3,6 @@
 ![screenshot](assets/images/GitHub%20Banner%20Sample%202.png)
 
 ---
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioRobledo&show_icons=true&theme=radical)](https://github.com/AntonioRobledo/github-readme-stats)
 
 ---
 ## 🛠️ My Favorite Tools
